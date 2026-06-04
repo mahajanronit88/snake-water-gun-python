@@ -1,2 +1,11 @@
 # snake-water-gun-python
-A simple Snake Water Gun game made using python
+My first python project
+
+Features:
+-Snake
+-Water
+-Gun
+-Random computer choice
+-Win/Lose/Draw result
+
+Built using Python.
